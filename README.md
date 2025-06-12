@@ -46,5 +46,3 @@ To run this project locally, follow the steps below:
    
 2. **For Mobile:**
    On smaller screens, the navigation menu transforms into a hamburger menu, which can be toggled by clicking the icon.
-
-
