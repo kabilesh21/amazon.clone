@@ -5,7 +5,7 @@ This is a simple, responsive navigation menu built using HTML, CSS, and a bit of
 ## Live Demo
 
 You can view a live demo of the project on CodePen:  
-[Live Demo on CodePen](https://codepen.io/mraryanjain/pen/MWzvbeN)
+[Live Demo on CodePen](https://codepen.io/Kabilesh/pen/ZYGoBEe)
 
 ## Features
 
