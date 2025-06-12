@@ -47,11 +47,4 @@ To run this project locally, follow the steps below:
 2. **For Mobile:**
    On smaller screens, the navigation menu transforms into a hamburger menu, which can be toggled by clicking the icon.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [CodePen](https://codepen.io/) for providing a platform to showcase front-end projects.
-- Thanks to [Mr. Aryan Jain](https://codepen.io/mraryanjain) for creating and sharing the original CodePen demo.
